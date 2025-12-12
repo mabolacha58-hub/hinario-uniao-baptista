@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hinario-uniao-baptista/static/css/main.04419666.css",
+    "main.js": "/hinario-uniao-baptista/static/js/main.500460b3.js",
+    "index.html": "/hinario-uniao-baptista/index.html",
+    "main.04419666.css.map": "/hinario-uniao-baptista/static/css/main.04419666.css.map",
+    "main.500460b3.js.map": "/hinario-uniao-baptista/static/js/main.500460b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04419666.css",
+    "static/js/main.500460b3.js"
+  ]
+}
